@@ -1,0 +1,11 @@
+		YOUR GROCERY BILL		
+		-----------------------		
+2021/6/26			21:32
+Product name				|Price
+pomegranate			200
+onion			35
+Payable Amount:	135.0
+
+
+		Thank You For Shopping		
+			Visit Againg		
